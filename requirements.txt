@@ -1,0 +1,4 @@
+paramiko
+-e git+https://redacted.git@master#egg=SDIutils-1.0.0
+-e git+https://redacted.git@master#egg=HPOAclient-1.0.0
+-e git+https://redacted.git@master#egg=HPVCclient-1.0.0

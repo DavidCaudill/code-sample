@@ -1,0 +1,8 @@
+---
+ldap_groups:
+    - AD_Group_1
+    - AD_Group_2
+
+oa_servers:
+    - server1
+    - server2
